@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"oPlatform",
-  "eventList":[],
+  "%Name":"oEnemy",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oPlatform",
+  "name":"oEnemy",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sPlatformer",
-    "path":"sprites/sPlatformer/sPlatformer.yy",
+    "name":"sEnemy",
+    "path":"sprites/sEnemy/sEnemy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

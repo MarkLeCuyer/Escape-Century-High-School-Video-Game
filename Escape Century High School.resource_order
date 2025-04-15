@@ -17,7 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"oCamera","order":3,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"oEnemy","order":2,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oPlatform","order":1,"path":"objects/oPlatform/oPlatform.yy",},
-    {"name":"Splatformer","order":1,"path":"sprites/Splatformer/Splatformer.yy",},
+    {"name":"sEnemy","order":2,"path":"sprites/sEnemy/sEnemy.yy",},
+    {"name":"sPlatformer","order":1,"path":"sprites/sPlatformer/sPlatformer.yy",},
   ],
 }
