@@ -35,7 +35,6 @@
   "name":"Escape Century High School",
   "resources":[
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
-    {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -43,6 +42,8 @@
     {"id":{"name":"sEnemyG","path":"sprites/sEnemyG/sEnemyG.yy",},},
     {"id":{"name":"sPlatformer","path":"sprites/sPlatformer/sPlatformer.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
+    {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
