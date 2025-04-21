@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"sEnemyG",
+  "%Name":"sEnemyg",
   "bboxMode":2,
   "bbox_bottom":52,
   "bbox_left":26,
@@ -22,7 +22,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"726d3b58-d7f0-4bde-9eed-a42838c213e7","blendMode":0,"displayName":"default","isLocked":false,"name":"726d3b58-d7f0-4bde-9eed-a42838c213e7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sEnemyG",
+  "name":"sEnemyg",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +34,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"sEnemyG",
+    "%Name":"sEnemyg",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sEnemyG",
+    "name":"sEnemyg",
     "playback":1,
     "playbackSpeed":8.0,
     "playbackSpeedType":0,
@@ -70,10 +70,10 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"27c3ab17-2e6b-4415-a9e9-899ee2166a14","path":"sprites/sEnemyG/sEnemyG.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"27c3ab17-2e6b-4415-a9e9-899ee2166a14","path":"sprites/sEnemyg/sEnemyg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c90e91b0-7bdb-4b7a-8e2d-18a99abd23ca","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cd6eac65-b844-466d-a5fb-965d430f0c9f","path":"sprites/sEnemyG/sEnemyG.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cd6eac65-b844-466d-a5fb-965d430f0c9f","path":"sprites/sEnemyg/sEnemyg.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"88206f2e-d0de-424f-b3ef-89cb8770a15a","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
