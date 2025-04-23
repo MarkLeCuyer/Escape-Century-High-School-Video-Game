@@ -7,7 +7,7 @@ if (place_meeting(x+hsp,y,oPlatform))
 	{
 		x = x + sign(hsp);
 	}
-	hsp = 0;
+	hsp = -hsp;
 }
 x = x + hsp; 
 
