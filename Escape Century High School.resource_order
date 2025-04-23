@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"oBlaster","order":5,"path":"objects/oBlaster/oBlaster.yy",},
     {"name":"oCamera","order":3,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"oDead","order":7,"path":"objects/oDead/oDead.yy",},
     {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oLazer","order":6,"path":"objects/oLazer/oLazer.yy",},
     {"name":"oPlatform","order":1,"path":"objects/oPlatform/oPlatform.yy",},

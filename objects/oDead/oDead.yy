@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"oEnemy",
+  "%Name":"oDead",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oEnemy",
+  "name":"oDead",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEnemyg",
-    "path":"sprites/sEnemyg/sEnemyg.yy",
+    "name":"sEnemygD",
+    "path":"sprites/sEnemygD/sEnemygD.yy",
   },
   "spriteMaskId":null,
   "visible":true,
