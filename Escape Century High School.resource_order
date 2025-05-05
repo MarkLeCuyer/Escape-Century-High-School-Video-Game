@@ -37,6 +37,8 @@
     {"name":"sPlayerR","order":4,"path":"sprites/sPlayerR/sPlayerR.yy",},
     {"name":"Sprite14","order":15,"path":"sprites/Sprite14/Sprite14.yy",},
     {"name":"Sprite15","order":14,"path":"sprites/Sprite15/Sprite15.yy",},
+    {"name":"Sprite16","order":16,"path":"sprites/Sprite16/Sprite16.yy",},
+    {"name":"Sprite17","order":17,"path":"sprites/Sprite17/Sprite17.yy",},
     {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
   ],
 }
