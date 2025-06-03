@@ -1,5 +1,14 @@
 vsp = vsp + grv;
 
+//Don't walk off edges 
+if (grounded) && (afraidofheights) && (!place_meeting(x+hsp,y+1,oPlatform))
+{
+	hsp = -hsp;
+}
+
+
+
+
 // Horizontal collision
 if (place_meeting(x+hsp,y,oPlatform))
 {
@@ -25,12 +34,14 @@ y = y + vsp;
 // Animation
 if (!place_meeting(x,y+1,oPlatform))
 {
+	grounded = false;
 	sprite_index = sEnemygA;
 	image_speed = 0;
 	if (sign(vsp) > 0) image_index = 1; else image_index = 0;
 }
 else
 {
+	grounded = true
 	image_speed = 1;
 	if (hsp == 0) 
 	{
