@@ -51,6 +51,8 @@
     {"id":{"name":"rOne","path":"rooms/rOne/rOne.yy",},},
     {"id":{"name":"ScreenShake","path":"scripts/ScreenShake/ScreenShake.yy",},},
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},},
+    {"id":{"name":"snShooting","path":"sounds/snShooting/snShooting.yy",},},
+    {"id":{"name":"snShot","path":"sounds/snShot/snShot.yy",},},
     {"id":{"name":"MenuBackground","path":"sprites/MenuBackground/MenuBackground.yy",},},
     {"id":{"name":"sBlaster","path":"sprites/sBlaster/sBlaster.yy",},},
     {"id":{"name":"sEnemyb","path":"sprites/sEnemyb/sEnemyb.yy",},},
